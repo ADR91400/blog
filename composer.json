@@ -11,5 +11,7 @@
       "email": "cunha.adriano@orange.fr"
     }
   ],
-  "require": {}
+  "require": {
+    "vlucas/phpdotenv": "^5.5"
+  }
 }
